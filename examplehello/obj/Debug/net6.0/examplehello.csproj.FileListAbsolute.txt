@@ -1,0 +1,15 @@
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\bin\Debug\net6.0\examplehello.exe
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\bin\Debug\net6.0\examplehello.deps.json
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\bin\Debug\net6.0\examplehello.runtimeconfig.json
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\bin\Debug\net6.0\examplehello.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\bin\Debug\net6.0\examplehello.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.csproj.AssemblyReference.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.AssemblyInfoInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.AssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\refint\examplehello.dll
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\examplehello.genruntimeconfig.cache
+C:\Users\ivans\OneDrive\Рабочий стол\C# курс\examplehello\obj\Debug\net6.0\ref\examplehello.dll
